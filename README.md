@@ -50,12 +50,12 @@ I'm a **backend developer** who builds reliable systems with **Python**. I desig
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daniels-pin&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="Daniel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniels-pin&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages" />
+  <img height="165" src="https://readme-stats-fast.vercel.app/api?username=Daniels-pin&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="Daniel's GitHub stats" />
+  <img height="165" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Daniels-pin&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daniels-pin&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Daniels-pin&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
